@@ -1,4 +1,4 @@
-package com.example.tiptime
+package com.example.converter
 
 import org.junit.Test
 
